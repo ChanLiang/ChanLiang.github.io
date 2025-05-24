@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www.cse.cuhk.edu.hk/people/kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
+Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
 
 <!-- His research interests lie in natural language processing and machine learning, with a particular focus on developing effective and reliable algorithms for large language models.  -->
 His research interests lie in natural language processing and machine learning, with a focus on trustworthy LLMs. He is devoted to developing noval algorithms for LLMs to ensure reliability across training ([ICML 2025](https://icml.cc/virtual/2025/poster/45951), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)).
@@ -61,7 +61,7 @@ His research interests lie in natural language processing and machine learning, 
 
 ## Community Service
 
-- Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024, NAACL 2024, EMNLP 2023–2024
+- Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024-2025, EMNLP 2023–2024
 
 ---
 
