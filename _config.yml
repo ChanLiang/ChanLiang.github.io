@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liang Chen"
-  avatar           : "liangchen.JPG"
+  avatar           : "liangchen.jpg"
   bio              : "PhD Candidate at The Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
