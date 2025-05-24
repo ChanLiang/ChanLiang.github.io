@@ -11,9 +11,9 @@ title                    : "Liang Chen"
 title_separator          : "-"
 name                     : &name "Liang Chen"
 description              : &description "PhD Candidate at The Chinese University of Hong Kong"
-url                      : https://liangchen-nlp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LiangChen-nlp.github.io"
+url                      : https://chanliang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/LiangChen-nlp" # the subpath of your site, e.g. "/blog"
+repository               : "chanliang/LiangChen-nlp"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,9 +85,9 @@ author:
   bio              : "PhD Candidate at The Chinese University of Hong Kong"
   # location         : "Hong Kong"
   # employer         :
-  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "lchen@se.cuhk.edu.hk"
+  # pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"
+  # email            : "lchen@se.cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
