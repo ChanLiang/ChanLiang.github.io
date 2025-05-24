@@ -16,7 +16,7 @@ His research interests lie in natural language processing and machine learning, 
 <!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
 <!-- He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAACL, and serves as a reviewer for major venues including ICML, ICLR, NeurIPS, AISTATS, ACL, and EMNLP. -->
 
-**Email**: lchen [at] se.cuhk.edu.hk
+<!-- **Email**: lchen [at] se.cuhk.edu.hk -->
 
 ---
 
