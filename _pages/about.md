@@ -1,0 +1,86 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Liang Chen (陈亮) is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at **The Chinese University of Hong Kong (CUHK)**, advised by [Prof. Kam-Fai Wong](https://www.cse.cuhk.edu.hk/people/kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
+
+His research interests lie in **natural language processing** and **machine learning**, with a particular focus on developing effective and reliable algorithms for large language models. 
+<!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
+He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAACL, and serves as a reviewer for major venues including ICML, ICLR, NeurIPS, AISTATS, ACL, and EMNLP.
+
+**Email**: lchen [at] se.cuhk.edu.hk
+
+---
+
+## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
+
+- **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
+  *Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment*.  
+  **ICML 2025**
+
+- **Liang Chen**, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong.  
+  *PEARL: Towards Permutation-Resilient LLMs*.  
+  **ICLR 2025**
+
+- **Liang Chen**, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-Fai Wong.  
+  *WatME: Towards Lossless Watermarking Through Lexical Redundancy*.  
+  **ACL 2024**
+
+- **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.  
+  *Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators*.  
+  **EMNLP 2023**
+
+- **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong.  
+  *Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization*.  
+  **Findings of ACL 2023**
+
+- Shuaiyi Li, Yang Deng, Deng Cai, Hongyuan Lu, **Liang Chen**, Wai Lam.  
+  *Consecutive Model Editing with Batch alongside HooK Layers*.  
+  **EMNLP 2024**
+
+- Zezhong Wang, Fangkai Yang, Lu Wang, Pu Zhao, Hongru Wang, **Liang Chen**, Qingwei Lin, Kam-Fai Wong.  
+  *SELF-GUARD: Empower the LLM to Safeguard Itself*.  
+  **NAACL 2024**
+
+- Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
+  *Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective*.  
+  **Findings of EMNLP 2023**
+
+---
+
+## Teaching
+
+- **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.  
+- **Engineering Innovation and Entrepreneurship (SEEM3450)** – A hands-on course focused on identifying engineering opportunities and developing business plans.
+
+---
+
+## Community Service
+
+- Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024, NAACL 2024, EMNLP 2023–2024
+
+---
+
+<!-- ## Skills
+
+- **Programming Languages**: Python, Shell, Java  
+- **Frameworks**: PyTorch, PaddlePaddle, TensorFlow, Huggingface Transformers, Fairseq  
+- **Operating Systems**: Linux -->
+
+<!-- --- -->
+
+## Honors & Scholarships
+
+- Postgraduate Studentship, CUHK  
+- School Scholarship, Peking University  
+- First-Class Scholarship (×3), Northwestern Polytechnical University  
+
+---
+
+_Last updated: May 2025_
