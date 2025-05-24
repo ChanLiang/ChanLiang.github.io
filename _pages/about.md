@@ -21,31 +21,31 @@ He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAA
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  *Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment*.  
+  [Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment].  
   **ICML 2025**
 
 - **Liang Chen**, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong.  
-  *[PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/pdf?id=txoJvjfI9w)*.  
+  [PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/pdf?id=txoJvjfI9w).  
   **ICLR 2025**
 
 - **Liang Chen**, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-Fai Wong.  
-  *[WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496.pdf)*.  
+  [WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496.pdf).  
   **ACL 2024**
 
 - **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.  
-  *[Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators(https://aclanthology.org/2023.emnlp-main.390)]*.  
+  [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390).  
   **EMNLP 2023**
 
 - Shuaiyi Li, Yang Deng, Deng Cai, Hongyuan Lu, **Liang Chen**, Wai Lam.  
-  *[Consecutive Model Editing with Batch alongside HooK Layers(https://aclanthology.org/2024.emnlp-main.765)]*.  
+  [Consecutive Model Editing with Batch alongside HooK Layers](https://aclanthology.org/2024.emnlp-main.765).  
   **EMNLP 2024**
 
 - Zezhong Wang, Fangkai Yang, Lu Wang, Pu Zhao, Hongru Wang, **Liang Chen**, Qingwei Lin, Kam-Fai Wong.  
-  *[SELF-GUARD: Empower the LLM to Safeguard Itself(https://aclanthology.org/2024.naacl-long.92)]*.  
+  [SELF-GUARD: Empower the LLM to Safeguard Itself](https://aclanthology.org/2024.naacl-long.92).  
   **NAACL 2024**
 
 - Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
-  *[Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective(https://openreview.net/forum?id=LPtO1evrGa)]*.  
+  [Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective](https://openreview.net/forum?id=LPtO1evrGa).  
   **Findings of EMNLP 2023**
 
 <!-- - **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong.  
@@ -78,8 +78,8 @@ He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAA
 ## Honors & Scholarships
 
 - Postgraduate Studentship, CUHK  
-- School Scholarship, Peking University  
-- First-Class Scholarship (×3), Northwestern Polytechnical University  
+- School Scholarship, PKU
+- First-Class Scholarship (×3), NWPU
 
 ---
 

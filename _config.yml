@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liang Chen"
-  avatar           : "liangchen.jpg"
+  avatar           : "/images/liangchen.jpg"
   bio              : "PhD Candidate at The Chinese University of Hong Kong"
   location         : "Hong Kong"
   employer         :
