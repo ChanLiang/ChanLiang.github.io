@@ -1,8 +1,8 @@
 ---
-# permalink: /
+permalink: /
 title: "About me"
 excerpt: "About me"
-# author_profile: true
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -21,7 +21,7 @@ He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAA
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment 
+  [Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment](https://icml.cc/virtual/2025/poster/45951)
   **ICML 2025**
 
 - **Liang Chen**, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong.  
