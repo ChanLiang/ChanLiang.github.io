@@ -23,7 +23,7 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
-  <div class="author__urls-wrapper">
+  <!-- <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
@@ -122,6 +122,23 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+    </ul>
+  </div> -->
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      <!-- 添加电子邮件链接 -->
+      <li><a href="mailto:lchen@se.cuhk.edu.hk"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      
+      <!-- 添加 GitHub 链接 -->
+      <li><a href="https://github.com/ChanLiang"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      <!-- 添加 Google Scholar 链接 -->
+      <li><a href="https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      
+      <!-- 如果需要，可以添加更多链接 -->
+      <!-- <li><a href="https://www.linkedin.com/in/your-linkedin"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li> -->
     </ul>
   </div>
 </div>
