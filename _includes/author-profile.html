@@ -18,9 +18,15 @@
     <img src="/LiangChen-nlp/images/liangchen.jpg" alt="Liang Chen" class="author__avatar">
   </div>
 
-  <div class="author__content">
+  <!-- <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+  </div> -->
+
+  <div class="author__content">
+    <!-- 用固定的名字和职位替代模板变量 -->
+    <h3 class="author__name">Liang Chen</h3>
+    <p class="author__bio">PhD Candidate at The Chinese University of Hong Kong</p>
   </div>
 
   <!-- <div class="author__urls-wrapper">
@@ -128,6 +134,9 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
+
+      <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Hong Kong </li>
+
       <!-- 添加电子邮件链接 -->
       <li><a href="mailto:lchen@se.cuhk.edu.hk"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       
