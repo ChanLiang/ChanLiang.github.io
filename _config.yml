@@ -83,7 +83,7 @@ author:
   name             : "Liang Chen"
   avatar           : "/images/liangchen.jpg"
   bio              : "PhD Candidate at The Chinese University of Hong Kong"
-  location         : "Hong Kong"
+  # location         : "Hong Kong"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"
