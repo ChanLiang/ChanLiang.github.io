@@ -78,43 +78,43 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Liang Chen"
-  # avatar           : "liangchen.jpg"
-  bio              : "PhD Candidate at The Chinese University of Hong Kong"
-  # location         : "Hong Kong"
-  # employer         :
-  # pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"
-  # email            : "lchen@se.cuhk.edu.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "ChanLiang"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  # linkedin         : "di-he-8a5633ab"
-  orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+# # Site Author
+# author:
+#   name             : "Liang Chen"
+#   # avatar           : "liangchen.jpg"
+#   bio              : "PhD Candidate at The Chinese University of Hong Kong"
+#   # location         : "Hong Kong"
+#   # employer         :
+#   # pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#   # googlescholar    : "https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate"
+#   # email            : "lchen@se.cuhk.edu.hk"
+#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : "ChanLiang"
+#   google_plus      :
+#   keybase          :
+#   instagram        :
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   lastfm           :
+#   # linkedin         : "di-he-8a5633ab"
+#   orcid            : # "http://orcid.org/yourorcidurl"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   steam            :
+#   tumblr           :
+#   twitter          : # "replacethistwitterhandle"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   youtube          :
+#   wikipedia        :
 
 
 # Reading Files
