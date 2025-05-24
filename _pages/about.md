@@ -18,7 +18,7 @@ His research interests lie in natural language processing and machine learning, 
 
 <!-- **Email**: lchen [at] se.cuhk.edu.hk -->
 
----
+<!-- --- -->
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
