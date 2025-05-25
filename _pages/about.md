@@ -50,6 +50,10 @@ His research interests lie in natural language processing and machine learning, 
   [Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective](https://openreview.net/forum?id=LPtO1evrGa)  
   **Findings of EMNLP 2023**
 
+  - **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Tat-Seng Chua.  
+  [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/) 
+  **Findings of ACL 2023**
+
 ---
 
 ## Teaching
