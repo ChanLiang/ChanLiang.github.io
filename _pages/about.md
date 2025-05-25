@@ -20,7 +20,7 @@ His research interests lie in natural language processing and machine learning, 
 
 <!-- --- -->
 
-## Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
+## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment](https://icml.cc/virtual/2025/poster/45951)
