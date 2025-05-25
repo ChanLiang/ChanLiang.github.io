@@ -87,7 +87,7 @@ His research interests lie in natural language processing and machine learning, 
 
 ## Miscellaneous
 
-I enjoy various sports, such as swimming, hiking, and table tennis. I was the runner-up in the Freshmen Cup table tennis singles competition and won the team championship three times at NWPU.
+I enjoy sports like swimming, hiking, and table tennis. I was the runner-up in the Freshmen Cup table tennis singles competition and won the team championship three times at NWPU.
 
 ---
 
