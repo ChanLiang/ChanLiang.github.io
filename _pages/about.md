@@ -34,13 +34,13 @@ His research interests lie in natural language processing and machine learning, 
   [WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496.pdf)  
   **ACL 2024**
 
-- **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Tat-Seng Chua.  
-  [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/) 
-  **Findings of ACL 2023**
-
 - **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.  
   [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390)  
   **EMNLP 2023**
+
+- **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Tat-Seng Chua.  
+  [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/) 
+  **Findings of ACL 2023**
 
 - Shuaiyi Li, Yang Deng, Deng Cai, Hongyuan Lu, **Liang Chen**, Wai Lam.  
   [Consecutive Model Editing with Batch alongside HooK Layers](https://aclanthology.org/2024.emnlp-main.765)  
