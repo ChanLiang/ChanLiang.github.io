@@ -50,9 +50,9 @@ His research interests lie in natural language processing and machine learning, 
   [SELF-GUARD: Empower the LLM to Safeguard Itself](https://aclanthology.org/2024.naacl-long.92)  
   **NAACL 2024**
 
-<!-- - Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
+- Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
   [Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective](https://openreview.net/forum?id=LPtO1evrGa)  
-  **Findings of EMNLP 2023** -->
+  **Findings of EMNLP 2023**
 
 ---
 
