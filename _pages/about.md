@@ -63,6 +63,13 @@ His research interests lie in natural language processing and machine learning, 
 
 ---
 
+## Internships
+
+- Microsoft Research Asia, Systems Research Group
+- Tencent AI Lab, Machine Learning Center
+
+---
+
 ## Community Service
 
 - Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024-2025, EMNLP 2023–2024
