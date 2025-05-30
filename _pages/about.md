@@ -11,7 +11,7 @@ redirect_from:
 Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
 
 <!-- His research interests lie in natural language processing and machine learning, with a particular focus on developing effective and reliable algorithms for large language models.  -->
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy LLMs. He is devoted to developing noval algorithms for LLMs to ensure reliability across training ([ICML 2025](https://icml.cc/virtual/2025/poster/45951), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)).
+His research interests lie in natural language processing and machine learning, with a focus on trustworthy LLMs. He is devoted to developing noval algorithms for LLMs to ensure reliability across training ([ICML 2025](https://icml.cc/virtual/2025/poster/45951), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs).
 <!-- He is devoted to developing noval algorithms to promote reliability of LLMs from training, inference and evaluation. -->
 <!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
 <!-- He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAACL, and serves as a reviewer for major venues including ICML, ICLR, NeurIPS, AISTATS, ACL, and EMNLP. -->
@@ -53,6 +53,15 @@ His research interests lie in natural language processing and machine learning, 
 - Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
   [Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective](https://openreview.net/forum?id=LPtO1evrGa)  
   **Findings of EMNLP 2023**
+
+---
+
+## Talks
+
+- **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
+  PhD Seminar, LMU Munich  
+  May 2025  
+  [[Slides]](/talks/pearl_slides.pdf)
 
 ---
 
