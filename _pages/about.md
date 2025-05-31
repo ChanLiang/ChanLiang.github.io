@@ -22,23 +22,30 @@ His research interests lie in natural language processing and machine learning, 
 ## News
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
-- [05/2025] **Gave a talk at LMU Munich on robust LLMs.**
+<!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
+- [05/2025] Gave a talk at LMU Munich on robust LLMs.
 
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
-- [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**  
+<!-- - [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**   -->
+- [05/2025] Our paper on [safety alignment](https://icml.cc/virtual/2025/poster/45951) is accepted at ICML 2025.  
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
-  We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention.
+  <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
+  We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention.
 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
-- [02/2025] **Our paper on robust finetuning is accepted at ICLR 2025.**  
+<!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
+- [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
+  We propose a finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
 
-- [08/2024] **One collaborative paper on model editing is accepted at EMNLP 2024.**  
+<!-- - [08/2024] **One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.**   -->
+- [08/2024] One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.  
   
 <!-- - [05/2024] Our paper on Lossless text watermarking (WatME) is accepted at ACL 2024. -->
-- [05/2024] **Our paper on lossless text watermarking is accepted at ACL 2024.**  
+<!-- - [05/2024] **Our paper on [lossless text watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.**   -->
+- [05/2024] Our paper on [lossless text watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.   
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless watermarking in text, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to mirror the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
