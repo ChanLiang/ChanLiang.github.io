@@ -10,7 +10,6 @@ redirect_from:
 
 Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
 
-<!-- His research interests lie in natural language processing and machine learning, with a particular focus on developing effective and reliable algorithms for large language models.  -->
 His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). He is devoted to developing novel algorithms for LLMs to ensure reliability across training ([ICML 2025](https://icml.cc/virtual/2025/poster/45951), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs).
 <!-- He is devoted to developing noval algorithms to promote reliability of LLMs from training, inference and evaluation. -->
 <!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
@@ -19,6 +18,22 @@ His research interests lie in natural language processing and machine learning, 
 <!-- **Email**: lchen [at] se.cuhk.edu.hk -->
 
 <!-- --- -->
+
+## News
+
+- **[05/2025]** Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.
+
+- **[05/2025]** Our paper on **Vulnerability-Aware Alignment (VAA)** is accepted at **ICML 2025**.  
+  We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve **safety retention**.
+
+- **[05/2025]** Our paper on **Permutation-Resilient Learning (PEARL)** is accepted at **ICLR 2025** 🎉  
+  PEARL helps LLMs understand **unordered inputs** — making them more robust in tasks like **ICL** and **RAG**.
+
+- **[08/2024]** One collaborative paper on **Model Editing** is accepted at **EMNLP 2024**.  
+  
+- **[05/2024]** Our paper on **Lossless text watermarking (WatME)** is accepted at ACL 2024.
+  WatME introduces a decoding algorithm that leverages lexical redundancy to mirror the success of image watermarking techniques.
+
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
