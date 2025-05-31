@@ -22,7 +22,7 @@ His research interests lie in natural language processing and machine learning, 
 ## News
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
-- [05/2025] **Gave a talk at LMU Munich on post-training optimization for robust LLMs.**
+- [05/2025] **Gave a talk at LMU Munich on trustworthy LLMs.**
 
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
 - [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**  
