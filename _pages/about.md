@@ -21,21 +21,21 @@ His research interests lie in natural language processing and machine learning, 
 
 ## News
 
-- [05/2025] Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.
+- [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.**
 
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
-- [05/2025] Our paper on safety alignment is accepted at ICML 2025.  
+- [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**
   We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.
 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
-- [02/2025] Our paper on robust instruction tuning is accepted at ICLR 2025.  
+- [02/2025] **Our paper on robust instruction tuning is accepted at ICLR 2025.**  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG.
 
-- [08/2024] One collaborative paper on Model Editing is accepted at EMNLP 2024.  
+- [08/2024] **One collaborative paper on model editing is accepted at EMNLP 2024.**
   
 <!-- - [05/2024] Our paper on Lossless text watermarking (WatME) is accepted at ACL 2024. -->
-- [05/2024] Our paper on text watermarking is accepted at ACL 2024.
+- [05/2024] **Our paper on text watermarking is accepted at ACL 2024.**
   We improve decoding algorithms by leveraging lexical redundancy to achieve lossless watermarking in text, mirroring the success of image watermarking.
 
 
