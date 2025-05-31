@@ -34,14 +34,16 @@ His research interests lie in natural language processing and machine learning, 
 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
 <!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
-- [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
+<!-- - [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.   -->
+- [02/2025] Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose a finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  <!-- We propose a finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
+  We propose an instruction tuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
 
 <!-- - [08/2024] **One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.**   -->
-- [08/2024] One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.  
+- [08/2024] One collaborative paper on [model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.  
   
 <!-- - [05/2024] Our paper on Lossless text watermarking (WatME) is accepted at ACL 2024. -->
 <!-- - [05/2024] **Our paper on [lossless text watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.**   -->
