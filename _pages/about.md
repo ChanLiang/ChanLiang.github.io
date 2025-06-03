@@ -10,7 +10,7 @@ redirect_from:
 
 Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
 
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). He is devoted to developing novel algorithms for LLMs to ensure reliability across training ([ICML 2025](https://icml.cc/virtual/2025/poster/45951), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs).
+His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). He is devoted to developing novel algorithms for LLMs to ensure reliability across training ([ICML 2025](/talks/VAA.pdf), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs).
 <!-- He is devoted to developing noval algorithms to promote reliability of LLMs from training, inference and evaluation. -->
 <!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
 <!-- He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAACL, and serves as a reviewer for major venues including ICML, ICLR, NeurIPS, AISTATS, ACL, and EMNLP. -->
@@ -28,7 +28,7 @@ His research interests lie in natural language processing and machine learning, 
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
 <!-- - [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**   -->
 <!-- - [05/2025] Our paper on [safety alignment](https://icml.cc/virtual/2025/poster/45951) is accepted at ICML 2025.   -->
-- [05/2025] Our paper on [safety alignment](https://icml.cc/virtual/2025/poster/45951) is accepted at ICML 2025.  
+- [05/2025] Our paper on [safety alignment](/talks/VAA.pdf) is accepted at ICML 2025.  
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
   We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention.
@@ -36,7 +36,7 @@ His research interests lie in natural language processing and machine learning, 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
 <!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
 <!-- - [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.   -->
-- [02/2025] Our paper on [robust finetuning](/paper/VAA.pdf) is accepted at ICLR 2025.  
+- [02/2025] Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
@@ -58,7 +58,7 @@ His research interests lie in natural language processing and machine learning, 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](/paper/VAA.pdf)
+  [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](/talks/VAA.pdf)
   <!-- [Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment](https://icml.cc/virtual/2025/poster/45951) -->
   **ICML 2025**
 
