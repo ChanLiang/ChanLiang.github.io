@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively.
+<!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. -->
+I am a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master’s and bachelor’s degrees from Peking University and Northwestern Polytechnical University, respectively.
 
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel algorithms to ensure the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs). Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/).
+<!-- His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel algorithms to ensure the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, he is working on large reasoning models (LRMs). Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
+
+My research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, I develop novel algorithms to ensure the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Currently, I'm working on large reasoning models (LRMs). Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/).
+
+I’m always open to research discussions and potential collaborations.
+
 <!-- Check out the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/) for more details. -->
 <!-- He is devoted to developing noval algorithms to promote reliability of LLMs from training, inference and evaluation. -->
 <!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
@@ -104,6 +110,8 @@ His research interests lie in natural language processing and machine learning, 
 
 ## Teaching
 
+I have served as a teaching assistant for the following courses:
+
 - **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.  
 - **Engineering Innovation and Entrepreneurship (SEEM3450)** – A hands-on course focused on identifying engineering opportunities and developing business plans.
 
@@ -118,7 +126,9 @@ His research interests lie in natural language processing and machine learning, 
 
 ## Community Service
 
-- Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024-2025, EMNLP 2023–2024
+<!-- - Reviewer for: ICML 2024, ICLR 2025, NeurIPS 2024-2025, AISTATS 2025, ACL 2024-2025, EMNLP 2023–2024 -->
+
+- Reviewer for ICML, ICLR, NeurIPS, AISTATS, ACL, EMNLP, and NAACL.
 
 ---
 
