@@ -8,7 +8,7 @@ collection: portfolio
 <!-- ![LLM Trustworthiness](/images/llm-trustworthiness.png) -->
 
 <!-- <img src="/images/llm-trustworthiness.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" /> -->
-<img src="/images/trust-llm.png" width="65%" />
+<img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
 
 The diagram illustrates the four key aspects of LLM trustworthiness:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
@@ -18,7 +18,7 @@ The diagram illustrates the four key aspects of LLM trustworthiness:
 
 <!-- <img src="/images/llm-trustworthiness-sys.png" width="65%" />
  -->
-<img src="/images/trust-llm-sys.png" width="65%" />
+<img src="/images/trust-llm-sys.png" style="width: 65%; display: block; margin: auto;" />
 
 
 From a systems perspective, the first three aspects correspond to the input, hidden states, and output of the system. The final aspect represents the relationship between the system and its users. These principles guide the design of safer and more trustworthy large language models.
