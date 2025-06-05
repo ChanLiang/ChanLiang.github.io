@@ -1,11 +1,13 @@
 ---
-title: "Research Portfolio"
-excerpt: "An overview of LLM trustworthiness, covering robustness, transparency, validity, and resistance to misuse.<br/><img src='/images/llm-trustworthiness.png'>"
+title: "Trustworthy LLMs"
+excerpt: "An overview of LLM trustworthiness, covering robustness, transparency, validity, and resistance to misuse."
 collection: portfolio
 ---
 
 
-![LLM Trustworthiness](/images/llm-trustworthiness.png)
+<!-- ![LLM Trustworthiness](/images/llm-trustworthiness.png) -->
+
+<img src="/images/llm-trustworthiness.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
 
 The diagram illustrates the four key aspects of LLM trustworthiness:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
