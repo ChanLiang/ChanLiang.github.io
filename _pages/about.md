@@ -150,9 +150,13 @@ I have served as a teaching assistant for the following courses:
 
 ## Miscellaneous
 
-I enjoy various sports like swimming, hiking, and table tennis. I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times at NWPU.
+I enjoy walking in the park, as well as sports like swimming, hiking, and table tennis.
+  
+During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times.
 
 ---
 
-
-_Last updated: May 2025_
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem;">
+  “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”<br>
+  — Woody Allen
+</p>
