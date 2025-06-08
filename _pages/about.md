@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About me"
-header: false
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+<!-- ## About me -->
 
 <!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. -->
 I am a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master’s and bachelor’s degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
