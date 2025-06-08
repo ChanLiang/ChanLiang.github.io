@@ -101,10 +101,13 @@ I’m always open to research discussions and potential collaborations.
 
 ## Talks
 
-- **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
+<!-- - **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
   PhD Seminar, LMU Munich  
-  May 2025  
-  [[Slides]](/talks/pearl.pdf)
+  May 2025   -->
+  <!-- [[Slides]](/talks/pearl.pdf) -->
+
+- **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
+  *PhD Seminar*, LMU Munich – May 2025
 
 ---
 
