@@ -61,7 +61,8 @@ His research interests lie in natural language processing and machine learning, 
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless watermarking in text, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to mirror the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
-  We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking.
+  <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
+  We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality.
 
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
