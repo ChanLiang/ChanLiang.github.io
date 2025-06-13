@@ -64,17 +64,17 @@ His research interests lie in natural language processing and machine learning, 
   <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
   We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality.
 
-- [01/2024] One collaborative paper on [jailbreak attack](https://aclanthology.org/2024.naacl-long.92) is accepted at NAACL 2024.  
+<!-- - [01/2024] One collaborative paper on [jailbreak attack](https://aclanthology.org/2024.naacl-long.92) is accepted at NAACL 2024.   -->
 
-- [10/2023] Our paper on [automatic evaluation](https://aclanthology.org/2023.emnlp-main.390) is accepted at EMNLP 2023.  
+<!-- - [10/2023] Our paper on [automatic evaluation](https://aclanthology.org/2023.emnlp-main.390) is accepted at EMNLP 2023.   -->
   <!-- We propose a comprehensively framework to assess LLM-generated knowledge and explore the impact of generative search engineering over traditional IR. -->
   <!-- We propose a comprehensive framework to assess LLM-generated knowledge and discuss the potential of generative search engineering as a superior alternative to traditional IR. -->
   <!-- We propose a comprehensive framework to assess LLM-generated knowledge and discuss the possibility of generative search engineering as an alternative to traditional IR. -->
   <!-- We propose a framework to automatically assess LLM-generated knowledge and explore the impact of replacing traditional IR with generative search engineering. -->
-  We introduce a framework to systematically evaluate LLM-generated knowledge and highlight the impact of replacing traditional IR with generative search engineering.
+  <!-- We introduce a framework to systematically evaluate LLM-generated knowledge and highlight the impact of replacing traditional IR with generative search engineering. -->
 
-- [05/2023] Our paper on [robust dialogue](https://aclanthology.org/2023.findings-acl.462/) is accepted at ACL 2023 findings.  
-  We propose a simple regularizer to help conversational AI learn robust representations, improving the consistency of model responses.
+<!-- - [05/2023] Our paper on [robust dialogue](https://aclanthology.org/2023.findings-acl.462/) is accepted at ACL 2023 findings.  
+  We propose a simple regularizer to help conversational AI learn robust representations, improving the consistency of model responses. -->
 
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
