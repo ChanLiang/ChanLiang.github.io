@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 **Peking University**, Beijing, China.
 * Candidate for B.S. in Computer Science and Technology
@@ -18,4 +18,4 @@ Education
   
 Service and leadership
 ======
-**Leader**: EECS Students’ Association for Science and Technology, Peking University.
+**Leader**: EECS Students’ Association for Science and Technology, Peking University. -->
