@@ -121,7 +121,7 @@ His research interests lie in natural language processing and machine learning, 
   May 2025   -->
   <!-- [[Slides]](/talks/pearl.pdf) -->
 
-- **Vulnerability-Aware Alignment: Protect Open-Source LLMs against Unsafe Fine-tuning**
+- **Vulnerability-Aware Alignment: Protect Open-Source LLMs against Unsafe Fine-tuning**  
   *AI Time*, Online Live – June 2025
 
 - **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
