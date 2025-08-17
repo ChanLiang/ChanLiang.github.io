@@ -40,7 +40,9 @@ His research interests lie in natural language processing and machine learning, 
 - [05/2025] Our paper on [safety alignment](https://arxiv.org/abs/2506.03850) is accepted at ICML 2025.  
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
-  We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention.
+  <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
+  We reveal that some alignment examples are more prone to forgetting during finetuning, and propose prioritizing them to improve long-term safety.
+  
 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
 <!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
@@ -50,7 +52,8 @@ His research interests lie in natural language processing and machine learning, 
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose an instruction tuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG.
+
 
 <!-- - [08/2024] **One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.**   -->
 - [08/2024] One collaborative paper on [model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.  
@@ -62,7 +65,8 @@ His research interests lie in natural language processing and machine learning, 
   <!-- We improve decoding algorithms by leveraging lexical redundancy to mirror the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
-  We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality.
+  <!-- We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality. -->
+  We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
 
 <!-- - [01/2024] One collaborative paper on [jailbreak attack](https://aclanthology.org/2024.naacl-long.92) is accepted at NAACL 2024.   -->
 
