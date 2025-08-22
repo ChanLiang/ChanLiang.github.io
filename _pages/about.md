@@ -19,6 +19,7 @@ His research interests lie in natural language processing and machine learning, 
 ## Research Portfolio
 
 <!-- <img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" /> -->
+
 <img src="/images/trustllm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
 
 He is dedicated to enhancing the reliability of LLMs across four dimensions:
