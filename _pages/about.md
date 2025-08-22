@@ -11,22 +11,13 @@ redirect_from:
 
 
 Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
-<!-- I am a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master’s and bachelor’s degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models (LRMs). Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/).
 
-<!-- My research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, I develop novel algorithms to ensure the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, I'm working on large reasoning models (LRMs). Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
+His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models (LRMs). 
+<!-- Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
 
-<!-- I’m always open to research discussions and potential collaborations. -->
-
-<!-- Check out the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/) for more details. -->
-<!-- He is devoted to developing noval algorithms to promote reliability of LLMs from training, inference and evaluation. -->
-<!-- Liang is devoted to ensuring the reliability of LLMs across the entire lifecycle—from **training** (e.g., [ICML 2025, ICLR 2025]), to **inference** (e.g., [ACL 2024]), and **evaluation** (e.g., [EMNLP 2023]). -->
-<!-- He has published at top-tier conferences such as ICML, ICLR, ACL, EMNLP, and NAACL, and serves as a reviewer for major venues including ICML, ICLR, NeurIPS, AISTATS, ACL, and EMNLP. -->
-
-<!-- **Email**: lchen [at] se.cuhk.edu.hk -->
-
-<!-- --- -->
+## Research Portfolio
+{% include_relative ../_portfolio/portfolio-1.md %}
 
 ## News
 
@@ -41,7 +32,8 @@ His research interests lie in natural language processing and machine learning, 
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
-  We reveal that some alignment examples are more prone to forgetting during finetuning, and propose prioritizing them to improve long-term safety.
+  We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.
+  <!-- We reveal that some alignment examples are more prone to forgetting during finetuning, and propose prioritizing them to improve long-term safety. -->
   
 
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
@@ -51,8 +43,8 @@ His research interests lie in natural language processing and machine learning, 
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  <!-- We propose a finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG.
+  We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  <!-- We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG. -->
 
 
 <!-- - [08/2024] **One collaborative paper on [consecutive model editing](https://aclanthology.org/2024.emnlp-main.765) is accepted at EMNLP 2024.**   -->
