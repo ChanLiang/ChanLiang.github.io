@@ -18,7 +18,8 @@ His research interests lie in natural language processing and machine learning, 
 
 ## Research Portfolio
 
-<img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
+<!-- <img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" /> -->
+<img src="/images/trustllm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
 
 He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
