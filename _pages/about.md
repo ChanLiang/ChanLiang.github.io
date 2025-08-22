@@ -13,11 +13,18 @@ redirect_from:
 Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 
 
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models (LRMs). 
+His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models. 
 <!-- Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
 
 ## Research Portfolio
-{% include_relative ../_portfolio/portfolio-1.md %}
+
+<img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
+
+He is dedicated to enhancing the reliability of LLMs across four dimensions:
+- **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
+- **Transparency of Decision**: Improving reasoning models and long chain-of-thought techniques ([Coming Soon](#)).
+- **Validity of Output**: Addressing hallucinations ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)) and inconsistencies in model outputs ([ACL 2023 findings](https://aclanthology.org/2023.findings-acl.462)).
+- **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://icml.cc/virtual/2025/poster/45951)).
 
 ## News
 
