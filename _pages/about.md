@@ -183,8 +183,15 @@ During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis sin
 ---
 
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem;">
+<!-- <p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem;">
   <span style="white-space: nowrap;">
+    “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”
+  </span><br>
+  — Woody Allen
+</p> -->
+
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.8rem;">
+  <span style="white-space: normal;">
     “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”
   </span><br>
   — Woody Allen
