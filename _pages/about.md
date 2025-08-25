@@ -26,7 +26,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
 - **Transparency of Decision**: Improving reasoning models and long chain-of-thought techniques ([Coming Soon](#)).
 - **Validity of Output**: Addressing hallucinations ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)) and inconsistencies in model outputs ([ACL 2023 findings](https://aclanthology.org/2023.findings-acl.462)).
-- **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://icml.cc/virtual/2025/poster/45951)).
+- **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)).
 
 ## News
 
@@ -85,7 +85,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://arxiv.org/abs/2506.03850)  
+  [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
   <!-- [Learning to Protect: Mitigating Harmful Fine-Tuning via Vulnerability-Aware Alignment](https://icml.cc/virtual/2025/poster/45951) -->
   **ICML 2025**
 
@@ -170,7 +170,7 @@ I have served as a teaching assistant for the following courses:
 
 - Postgraduate Studentship, CUHK  
 - School Scholarship, PKU
-- First-Class Scholarship (×3), NWPU
+- First-Class Scholarship, NWPU
 
 ---
 
@@ -190,7 +190,7 @@ During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis sin
   — Woody Allen
 </p> -->
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.8rem;">
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.85rem;">
   <span style="white-space: normal;">
     “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”
   </span><br>
