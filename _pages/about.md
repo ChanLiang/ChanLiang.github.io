@@ -24,13 +24,13 @@ His research interests lie in natural language processing and machine learning, 
 
 He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
-- **Transparency of Decision**: Improving reasoning models and long chain-of-thought techniques ([BRIDGE](/paper/pearl.pdf)).
+- **Transparency of Decision**: Improving reasoning models and long chain-of-thought techniques ([BRIDGE](/talk/pearl.pdf)).
 - **Validity of Output**: Addressing hallucinations ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)) and inconsistencies in model outputs ([ACL 2023 findings](https://aclanthology.org/2023.findings-acl.462)).
 - **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)).
 
 ## News
 
-- [09/2025] [New preprint](/paper/pearl.pdf): *Teaching RL to Learn from SFT for Better Reasoning*    
+- [09/2025] [New preprint](/talk/pearl.pdf): *Teaching RL to Learn from SFT for Better Reasoning*    
   We propose a meta-learning framework that bridges SFT and RL paradigms. Now, your RL model can learn to learn from SFT signals to improve its reasoning ability.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
@@ -88,7 +88,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](/paper/pearl.pdf)  
+  [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](/talk/pearl.pdf)  
   **ICML 2025**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
