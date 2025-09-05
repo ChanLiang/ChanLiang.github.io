@@ -24,7 +24,7 @@ His research interests lie in natural language processing and machine learning, 
 
 He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
-- **Transparency of Decision**: Improving reasoning models and long chain-of-thought techniques ([BRIDGE](/talks/bridge.pdf)).
+- **Transparency of Decision**: Improving interpretability techniques and reasoning models ([BRIDGE](/talks/bridge.pdf)).
 - **Validity of Output**: Addressing hallucinations ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)) and inconsistencies in model outputs ([ACL 2023 findings](https://aclanthology.org/2023.findings-acl.462)).
 - **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)).
 
@@ -119,9 +119,9 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   [SELF-GUARD: Empower the LLM to Safeguard Itself](https://aclanthology.org/2024.naacl-long.92)  
   **NAACL 2024**
 
-- Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
+<!-- - Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua.  
   [Proactive Dialogue Systems in the Era of Large Language Models: Evaluating from a Prompting Perspective](https://openreview.net/forum?id=LPtO1evrGa)  
-  **Findings of EMNLP 2023**
+  **Findings of EMNLP 2023** -->
 
 ---
 
