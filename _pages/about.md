@@ -30,8 +30,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [09/2025] [New preprint](/talks/bridge.pdf): *Teaching RL to Learn from SFT for Better Reasoning*    
-  We propose a meta-learning framework that bridges SFT and RL paradigms. Now, your RL model can learn to learn from SFT signals to improve its reasoning ability.
+- [09/2025] New preprint(/talks/bridge.pdf): Meta-Learning for SFT-RL Cooperation in Reasoning Models.  
+  We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
