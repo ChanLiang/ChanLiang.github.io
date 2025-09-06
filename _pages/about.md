@@ -30,8 +30,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [09/2025] [New preprint](/talks/bridge.pdf): Meta-Learning for SFT-RL Cooperation in Reasoning Models.  
-  We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance
+- [09/2025] [New preprint](/talks/bridge.pdf): Meta-learning for SFT–RL cooperation in Reasoning Models.
+  We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
@@ -132,11 +132,16 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   May 2025   -->
   <!-- [[Slides]](/talks/pearl.pdf) -->
 
+- **Beyond Two-Stage Training: Cooperative SFT and RL for Improved LLM Reasoning**
+  *PhD Seminar*, LMU Munich – August 2025  
+  Host: Professor Hinrich Schütze
+
 - **Vulnerability-Aware Alignment: Protect Open-Source LLMs against Unsafe Fine-tuning**
-  *AI Time*, Online Live – June 2025
+  *AI Time*, Online Live – June 2025  
 
 - **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
-  *PhD Seminar*, LMU Munich – May 2025
+  *PhD Seminar*, LMU Munich – May 2025  
+  Host: Professor Hinrich Schütze
 
 ---
 
