@@ -30,7 +30,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [09/2025] [New preprint](/talks/bridge.pdf): Meta-learning for SFT–RL cooperation in Reasoning Models.
+- [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL training for advanced reasoning.
   We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
