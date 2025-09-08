@@ -33,7 +33,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.  
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
-  Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.
+  *Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.*
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
@@ -46,7 +46,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
-  We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.
+  *We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.*
   <!-- We reveal that some alignment examples are more prone to forgetting during finetuning, and propose prioritizing them to improve long-term safety. -->
   
 
@@ -57,7 +57,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  *We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.*
   <!-- We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG. -->
 
 
@@ -72,7 +72,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
   <!-- We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality. -->
-  We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
+  *We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.*
 
 <!-- - [01/2024] One collaborative paper on [jailbreak attack](https://aclanthology.org/2024.naacl-long.92) is accepted at NAACL 2024.   -->
 
