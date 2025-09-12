@@ -10,30 +10,41 @@ redirect_from:
 
 
 
-Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
+<!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
+I am a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 
 
-His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://arxiv.org/abs/2506.03850), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models. 
+<!-- His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models.  -->
+
+<!-- My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
+
+My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions.
+<!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
+
+Currently, I focus on the following research topics:
+- Empirical Investigation for LLM Reliability [[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390), [ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)]
+- Learning Good LLMs from Imperfect Data/Signals [[ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w), [ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [arxiv 2025](/talks/bridge.pdf)]
+
 <!-- Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
 
-## Research Portfolio
+<!-- ## Research Portfolio -->
 
-<!-- <img src="/images/trust-llm.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" /> -->
-<!-- <img src="/images/trustllm2.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" /> -->
-<img src="/images/TrustLLM.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
+<!-- <img src="/images/TrustLLM.png" alt="LLM Trustworthiness" style="width: 65%; display: block; margin: auto;" />
 
 He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - **Robustness to Input**: Ensuring LLMs can handle adversarial attacks and distribution shifts ([ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)).
 - **Transparency of Decision**: Improving interpretability techniques and reasoning models ([BRIDGE](/talks/bridge.pdf)).
 - **Validity of Output**: Addressing hallucinations ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)) and inconsistencies in model outputs ([ACL 2023 findings](https://aclanthology.org/2023.findings-acl.462)).
-- **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)).
+- **Resistance to Misuse**: Preventing the use of AI for cheating, plagiarism ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and unsafe fine-tuning ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)). -->
 
 ## News
 
 - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.  
+<!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
-  *Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.*
+  <!-- *Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.* -->
+  Instead of the two-stage training setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
@@ -42,11 +53,11 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
 <!-- - [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**   -->
 <!-- - [05/2025] Our paper on [safety alignment](https://icml.cc/virtual/2025/poster/45951) is accepted at ICML 2025.   -->
-- [05/2025] Our paper on [safety alignment](https://arxiv.org/abs/2506.03850) is accepted at ICML 2025.  
+- [05/2025] Our paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) is accepted at ICML 2025.  
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose a vulnerability-aware alignment method to upweight and reinforce them to improve safety retention. -->
   <!-- We reveal that some alignment examples are more prone to forgetting, and propose to upweight and reinforce them to improve safety retention. -->
-  *We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.*
+  We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.
   <!-- We reveal that some alignment examples are more prone to forgetting during finetuning, and propose prioritizing them to improve long-term safety. -->
   
 
@@ -57,7 +68,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  *We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.*
+  We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
   <!-- We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG. -->
 
 
@@ -72,19 +83,9 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
   <!-- We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality. -->
-  *We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.*
+  We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
 
-<!-- - [01/2024] One collaborative paper on [jailbreak attack](https://aclanthology.org/2024.naacl-long.92) is accepted at NAACL 2024.   -->
 
-<!-- - [10/2023] Our paper on [automatic evaluation](https://aclanthology.org/2023.emnlp-main.390) is accepted at EMNLP 2023.   -->
-  <!-- We propose a comprehensively framework to assess LLM-generated knowledge and explore the impact of generative search engineering over traditional IR. -->
-  <!-- We propose a comprehensive framework to assess LLM-generated knowledge and discuss the potential of generative search engineering as a superior alternative to traditional IR. -->
-  <!-- We propose a comprehensive framework to assess LLM-generated knowledge and discuss the possibility of generative search engineering as an alternative to traditional IR. -->
-  <!-- We propose a framework to automatically assess LLM-generated knowledge and explore the impact of replacing traditional IR with generative search engineering. -->
-  <!-- We introduce a framework to systematically evaluate LLM-generated knowledge and highlight the impact of replacing traditional IR with generative search engineering. -->
-
-<!-- - [05/2023] Our paper on [robust dialogue](https://aclanthology.org/2023.findings-acl.462/) is accepted at ACL 2023 findings.  
-  We propose a simple regularizer to help conversational AI learn robust representations, improving the consistency of model responses. -->
 
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
@@ -203,7 +204,7 @@ During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis sin
   — Woody Allen
 </p> -->
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.85rem;">
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.87rem;">
   <span style="white-space: normal;">
     “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”
   </span><br>
