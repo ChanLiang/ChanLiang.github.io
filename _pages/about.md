@@ -17,11 +17,9 @@ I am a third-year Ph.D. student in the Department of Systems Engineering and Eng
 <!-- His research interests lie in natural language processing and machine learning, with a focus on trustworthy large language models (LLMs). To this end, he develops novel methods to promote the reliability of LLMs across training ([ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w)), inference ([ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)), and evaluation ([EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390)). Recently, he has been working on reinforcement learning (RL) and large reasoning models.  -->
 
 <!-- My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
-
-My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions.
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
-Currently, I focus on the following research topics:
+My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:
 - Empirical Investigation for LLM Reliability [[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390), [ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)]
 - Learning Good LLMs from Imperfect Data/Signals [[ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w), [ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [arxiv 2025](/talks/bridge.pdf)]
 
@@ -39,7 +37,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.  
+<!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
+- [09/2025] New preprint on [Cooperative learning framework](/talks/bridge.pdf) for training advanced reasoning models.  
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
