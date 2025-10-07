@@ -93,9 +93,13 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
+- **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
+  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](/talks/eepo.pdf)  
+  **Preprint 2025**
+
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](/talks/bridge.pdf)  
-  **Preprint**
+  **Preprint 2025**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
