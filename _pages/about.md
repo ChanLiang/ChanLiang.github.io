@@ -41,13 +41,17 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
+- [10/2025] New work on [RLVR](/talks/bridge.pdf) that enhances GRPO exploration.  
+  A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.
+
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
-- [09/2025] New preprint on [Cooperative learning framework](/talks/bridge.pdf) for training advanced reasoning models.  
+- [09/2025] New work on [Cooperative learning](/talks/bridge.pdf) for training reasoning models.  
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
   <!-- *Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.* -->
-  Instead of the two-stage training setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.
+  <!-- Instead of the two-stage training setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge. -->
+  Instead of serving as a warmup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
@@ -119,7 +123,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 - **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong.    
   [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/) 
-  **Findings of ACL 2023**
+  **ACL 2023 Findings**
+  <!-- **Findings of ACL 2023** -->
 
 - Shuaiyi Li, Yang Deng, Deng Cai, Hongyuan Lu, **Liang Chen**, Wai Lam.  
   [Consecutive Model Editing with Batch alongside HooK Layers](https://aclanthology.org/2024.emnlp-main.765)  
