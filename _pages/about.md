@@ -41,7 +41,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [10/2025] New work on [RLVR](/talks/bridge.pdf) that enhances policy exploration.  
+- [10/2025] New work on [RLVR](/talks/eepo.pdf) that enhances policy exploration.  
   A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
