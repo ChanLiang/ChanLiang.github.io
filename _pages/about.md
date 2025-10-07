@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 I am a fourth-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
-I had a good time serving as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
+I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 <!-- Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 
 
@@ -22,9 +22,9 @@ I had a good time serving as a visiting researcher at LMU Munich, working with [
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
 My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:
-- Empirical Investigation for LLM Reliability [[EMNLP 2023](https://aclanthology.org/2023.emnlp-main.390), [ACL 2024](https://aclanthology.org/2024.acl-long.496.pdf)]
+- Empirical Investigation for LLM Reliability [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496.pdf)]
 <!-- - Learning Good LLMs from Imperfect Data/Signals [[ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w), [ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [arxiv 2025](/talks/bridge.pdf)] -->
-- Learning Reliable LLMs from Imperfect Data/Signals [[ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w), [ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT)]
+- Learning Reliable LLMs from Imperfect Data/Signals [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
 - Effective Methods for Training Reasoning Models [[BRIDGE](/talks/bridge.pdf), [EEPO](/talks/eepo.pdf)]
 
 <!-- Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
@@ -95,11 +95,11 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 - **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
   [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](/talks/eepo.pdf)  
-  **Preprint 2025**
+  **Preprint**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](/talks/bridge.pdf)  
-  **Preprint 2025**
+  **Preprint**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
