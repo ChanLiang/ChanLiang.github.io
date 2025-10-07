@@ -51,7 +51,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
   <!-- *Instead of the conventional two-stage setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.* -->
   <!-- Instead of the two-stage training setup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge. -->
-  Instead of serving as a warmup, SFT can now meta-learn how to supervise RL by strategically transferring beneficial knowledge.
+  Instead of serving as a warmup, SFT can now learn how to supervise RL by strategically transferring beneficial knowledge.
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
