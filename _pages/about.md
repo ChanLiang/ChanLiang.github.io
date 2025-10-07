@@ -202,7 +202,8 @@ I have served as a teaching assistant for the following courses:
 
 ## Miscellaneous
 
-Outside of research, I enjoy walking in the park, as well as sports like swimming, hiking, and table tennis.
+<!-- Outside of research, I enjoy walking in the park, as well as sports like swimming, hiking, and table tennis. -->
+Outside of research, I enjoy walking in parks, as well as swimming, hiking, and table tennis.
   
 During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times.
 
