@@ -41,11 +41,11 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [10/2025] New work on [RLVR](/talks/bridge.pdf) that enhances GRPO exploration.  
+- [10/2025] New work on [RLVR](/talks/bridge.pdf) that enhances policy exploration.  
   A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
-- [09/2025] New work on [Cooperative learning](/talks/bridge.pdf) for training reasoning models.  
+- [09/2025] New work on [cooperative learning](/talks/bridge.pdf) for training reasoning models.  
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
