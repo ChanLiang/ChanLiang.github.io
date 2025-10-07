@@ -122,7 +122,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   **EMNLP 2023**
 
 - **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong.    
-  [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/) 
+  [Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/)  
   **ACL 2023 Findings**
   <!-- **Findings of ACL 2023** -->
 
