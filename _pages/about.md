@@ -42,7 +42,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## News
 
 - [10/2025] New work on [RLVR](/talks/eepo.pdf) that enhances policy exploration.  
-  A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.
+  <!-- A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.   -->
+  We diagnose mode collapse in RL as a self‑reinforcing loop and mitigate it by directly reshaping the trajectory distribution to discourage revisits and enhance exploration.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
 - [09/2025] New work on [cooperative learning](/talks/bridge.pdf) for training reasoning models.  
@@ -148,14 +149,14 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   May 2025   -->
   <!-- [[Slides]](/talks/pearl.pdf) -->
 
-- **Beyond Two-Stage Training: Cooperative SFT and RL for Improved LLM Reasoning**
+- Beyond Two-Stage Training: Cooperative SFT and RL for Improved LLM Reasoning  
   *PhD Seminar*, LMU Munich – August 2025  
   Host: Prof. Hinrich Schütze
 
-- **Vulnerability-Aware Alignment: Protect Open-Source LLMs against Unsafe Fine-tuning**
+- Vulnerability-Aware Alignment: Protect Open-Source LLMs against Unsafe Fine-tuning  
   *AI Time*, Online Live – June 2025  
 
-- **Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization**  
+- Towards Trustworthy LLMs: Improving Robustness via Post-Training Optimization  
   *PhD Seminar*, LMU Munich – May 2025  
   Host: Prof. Hinrich Schütze
 
@@ -218,7 +219,7 @@ During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis sin
   — Woody Allen
 </p> -->
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.87rem;">
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.88rem;">
   <span style="white-space: normal;">
     “I don't want to achieve immortality through my work; I want to achieve immortality through not dying.”
   </span><br>
