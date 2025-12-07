@@ -21,11 +21,14 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
-My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:
-- Empirical Investigation for LLM Reliability [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496.pdf)]
+My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:  
+- Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
+- Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
+- Reinforcement learning for reasoning and LLM agents [[BRIDGE](https://arxiv.org/abs/2509.06948), [EEPO](https://arxiv.org/abs/2510.05837)]
+
+
+<!-- - Empirical Investigation for LLM Reliability [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496.pdf)] -->
 <!-- - Learning Good LLMs from Imperfect Data/Signals [[ICLR 2025](https://openreview.net/pdf?id=txoJvjfI9w), [ICML 2025](https://openreview.net/pdf?id=EMHED4WTHT), [arxiv 2025](/talks/bridge.pdf)] -->
-- Learning Reliable LLMs from Imperfect Data/Signals [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
-- Effective Methods for Training Reasoning Models [[BRIDGE](/talks/bridge.pdf), [EEPO](/talks/eepo.pdf)]
 
 <!-- Further details can be found in the [research portfolio](https://chanliang.github.io/portfolio/portfolio-1/). -->
 
@@ -41,12 +44,12 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [10/2025] New work on [RLVR](/talks/eepo.pdf) that enhances policy exploration.  
+- [10/2025] New work on [RLVR](https://arxiv.org/abs/2510.05837) that enhances policy exploration.  
   <!-- A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.   -->
   We diagnose mode collapse in RL as a self‑reinforcing loop and mitigate it by directly reshaping the trajectory distribution to discourage revisits and enhance exploration.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
-- [09/2025] New work on [cooperative learning](/talks/bridge.pdf) for training reasoning models.  
+- [09/2025] New work on [cooperative learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
@@ -99,11 +102,11 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
-  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](/talks/eepo.pdf)  
+  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/abs/2510.05837)  
   **Preprint**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
-  [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](/talks/bridge.pdf)  
+  [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
   **Preprint**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
