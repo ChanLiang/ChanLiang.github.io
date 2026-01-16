@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
-I am a Ph.D. candidate in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
+I am a Ph.D. candidate in the Department of Systems Engineering and Engineering Management (SEEM) at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
 I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 <!-- Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 
