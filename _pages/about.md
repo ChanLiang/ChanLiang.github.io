@@ -11,7 +11,7 @@ redirect_from:
 
 
 <!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
-I am a Ph.D. candidate in the Department of Systems Engineering and Engineering Management (SEEM) at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
+I am a Ph.D. candidate in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
 I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 <!-- Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 
@@ -22,9 +22,10 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
 My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:  
-- Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
-- Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
 - Reinforcement learning for reasoning and LLM agents [[BRIDGE](https://arxiv.org/abs/2509.06948), [EEPO](https://arxiv.org/abs/2510.05837)]
+- Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
+- Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
+
 
 
 <!-- - Empirical Investigation for LLM Reliability [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496.pdf)] -->
