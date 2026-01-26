@@ -45,12 +45,12 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 ## News
 
-- [10/2025] New work on [RLVR](https://arxiv.org/abs/2510.05837) that enhances policy exploration.  
-  <!-- A sample-then-forget rollout mechanism that discourages revisits and promotes exploration by temporarily suppressing recent trajectories.   -->
-  We diagnose mode collapse in RL as a self‑reinforcing loop and mitigate it by directly reshaping the trajectory distribution to discourage revisits and enhance exploration.
+
+- [01/2026] Our work on [RLVR](https://arxiv.org/abs/2510.05837) is accepted at ICLR 2026.  
+  We diagnose mode collapse in RL as a self‑reinforcing loop, and mitigate it by reshaping the trajectory distribution via a *sample‑then‑forget* mechanism to discourage revisits and enhance exploration.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
-- [09/2025] New work on [cooperative learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
+- [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
@@ -104,7 +104,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 - **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
   [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/abs/2510.05837)  
-  **Preprint**
+  **ICLR 2026**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
