@@ -22,7 +22,7 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
 My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:  
-- Reinforcement learning for reasoning and LLM agents [[BRIDGE](https://arxiv.org/abs/2509.06948), [EEPO](https://arxiv.org/abs/2510.05837)]
+- Reinforcement learning for reasoning and LLM agents [[EEPO](https://arxiv.org/abs/2510.05837), [BRIDGE](https://arxiv.org/abs/2509.06948)]
 - Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
 - Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
 
@@ -47,7 +47,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 
 - [01/2026] Our work on [RLVR](https://arxiv.org/abs/2510.05837) is accepted at ICLR 2026.  
-  We diagnose mode collapse in RL as a self‑reinforcing loop, and break it by reshaping the trajectory distribution to discourage revisits and enhance exploration.
+  We diagnose mode collapse in RL as a self‑reinforcing loop, and break it by reshaping the trajectory distribution to discourage revisits and enable *BFS‑like* exploration.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
 - [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
@@ -89,7 +89,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   
 <!-- - [05/2024] Our paper on Lossless text watermarking (WatME) is accepted at ACL 2024. -->
 <!-- - [05/2024] **Our paper on [lossless text watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.**   -->
-- [05/2024] Our paper on [text watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.   
+- [05/2024] Our paper on [llm watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.   
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless watermarking in text, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to mirror the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
