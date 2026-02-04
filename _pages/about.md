@@ -24,16 +24,16 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
 <!-- My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:   -->
-<!-- - Reinforcement learning for reasoning and LLM agents [[EEPO](https://arxiv.org/abs/2510.05837), [BRIDGE](https://arxiv.org/abs/2509.06948)]
+<!-- - Reinforcement learning for reasoning and LLM agents [[EEPO](https://arxiv.org/pdf/2510.05837), [BRIDGE](https://arxiv.org/abs/2509.06948)]
 - Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
 - Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)] -->
 
 
 <!-- My research interests lie in natural language processing and machine learning. Currently, I focus on the following research topics:  -->
-My research interests lie in natural language processing and large language models (LLMs). Currently, I’m focusing on the following topics:
-- Large-scale reinforcement learning for reasoning and agents [[EEPO](https://arxiv.org/abs/2510.05837), [BRIDGE](https://arxiv.org/abs/2509.06948)]
-- Post-training reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
-- Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
+My research interests lie in natural language processing and large language models (LLMs). Currently, I’m focusing on the following topics:  
+(1) Large-scale reinforcement learning for reasoning and agents [[EEPO](https://arxiv.org/pdf/2510.05837), [BRIDGE](https://arxiv.org/pdf/2509.06948)]  
+(2) Post-training reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]  
+(3) Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
 
 
 
@@ -55,7 +55,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## News
 
 
-- [01/2026] Our work on [RLVR](https://arxiv.org/abs/2510.05837) is accepted at ICLR 2026.  
+- [01/2026] Our work on [RLVR](https://arxiv.org/pdf/2510.05837) is accepted at ICLR 2026.  
   We diagnose mode collapse in RL as a self‑reinforcing loop, and break it by reshaping the trajectory distribution to discourage revisits and enable *BFS‑like* exploration.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
@@ -112,7 +112,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
-  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/abs/2510.05837)  
+  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/pdf/2510.05837)  
   **ICLR 2026**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
