@@ -86,11 +86,11 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
 <!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
 <!-- - [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.   -->
-- [02/2025] Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
+- [02/2025] Our paper on [instruction finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
-  We propose an instruction finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG.
+  We propose an instruction finetuning method that helps LLMs better handle set-structure inputs — making them more robust in tasks like ICL and RAG.
   <!-- We propose an instruction tuning method that helps LLMs better handle unordered inputs, improving robustness in tasks like ICL and RAG. -->
 
 
