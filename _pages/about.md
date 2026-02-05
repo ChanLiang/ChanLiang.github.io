@@ -13,8 +13,9 @@ redirect_from:
 <!-- Liang Chen is a third-year Ph.D. student in the Department of Systems Engineering and Engineering Management at The Chinese University of Hong Kong (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). He received his master and bachelor degrees from Peking University and Northwestern Polytechnical University, respectively. Currently, he is a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 <!-- I am a Ph.D. candidate in [Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) (SEEM) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
 I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
-I am a Ph.D. candidate in the Department of Systems Engineering & Engineering Management at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
-I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
+I am a Ph.D. candidate in the Department of Systems Engineering & Engineering Management at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively.
+I was a visiting researcher at LMU Munich, where I worked with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
+<!-- I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 <!-- Currently, I am a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). -->
 
 
@@ -86,7 +87,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 <!-- - [02/2025] Our paper on Permutation-Resilient Learning (PEARL) is accepted at ICLR 2025.   -->
 <!-- - [02/2025] **Our paper on [robust finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.**   -->
 <!-- - [02/2025] Our paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.   -->
-- [02/2025] Our paper on [instruction finetuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
+- [02/2025] Our paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
   <!-- PEARL helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs understand unordered inputs — making them more robust in tasks like ICL and RAG. -->
   <!-- We propose a permutation-resilient finetuning method that helps LLMs better handle unordered inputs — making them more robust in tasks like ICL and RAG. -->
