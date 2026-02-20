@@ -36,7 +36,8 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing and large language models (LLMs). Currently, I’m focusing on the following topics:  -->
 <!-- Currently, I’m focusing on:    -->
 <!-- My research focuses on post-training of large language models (LLMs), including:    -->  
-My research focuses on developing effective and efficient post-training methods for large language models (LLMs), aiming to improve their alignment and reasoning across diverse settings. This work spans the following directions:  
+<!-- My research focuses on developing effective and efficient post-training methods for large language models (LLMs), aiming to improve their alignment and reasoning across diverse settings.  This work spans the following directions: -->    
+My research centers on developing effective and reliable adaptation methods for large language models (LLMs), aiming to improve alignment with human preferences and strengthen advanced capabilities such as reasoning in real-world settings. This work spans the following directions:  
 (1) Large-scale reinforcement learning for reasoning and agents [[EEPO](https://arxiv.org/pdf/2510.05837), [BRIDGE](https://arxiv.org/pdf/2509.06948)]  
 (2) Post-training reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]  
 (3) Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
