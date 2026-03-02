@@ -63,7 +63,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 
 - [01/2026] Our work on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
-  We diagnose mode collapse as a self-reinforcing loop in trajectory distributions, and mitigate it via distribution-level reshaping to enable exploration.
+    <!-- We diagnose mode collapse as a self-reinforcing loop in trajectory distributions, and mitigate it via distribution-level reshaping to enable exploration.    -->
+  We diagnose mode collapse as a self-reinforcing loop in trajectory distributions, and break it with sample-then-forget distribution reshaping for targeted exploration.
 
 - [11/2025] Gave a talk at Microsoft Research.
 
