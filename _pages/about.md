@@ -27,7 +27,7 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research interests lie in natural language processing, aiming to develop trustworthy foundations for Large Language Models (LLMs), through novel techniques in machine learning. My ultimate goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring they maintain alignment, safety, and robustness under diverse operational conditions. -->
 
 <!-- My research interests lie in natural language processing and machine learning, aiming to develop trustworthy foundations for Large Language Models (LLMs). My goal is to bridge the gap between the impressive capabilities of modern LLMs and their reliable deployment in real-world applications, ensuring their alignment, safety, and robustness under diverse operational conditions. Currently, I focus on the following research topics:   -->
-<!-- - Reinforcement learning for reasoning and LLM agents [[EEPO](https://arxiv.org/pdf/2510.05837), [BRIDGE](https://arxiv.org/abs/2509.06948)]
+<!-- - Reinforcement learning for reasoning and LLM agents [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/abs/2509.06948)]
 - Learning reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]
 - Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)] -->
 
@@ -38,7 +38,7 @@ I had a wonderful time as a visiting researcher at LMU Munich, working with [Pro
 <!-- My research focuses on post-training of large language models (LLMs), including:    -->  
 <!-- My research focuses on developing effective and efficient post-training methods for large language models (LLMs), aiming to improve their alignment and reasoning across diverse settings.  This work spans the following directions: -->    
 My research centers on developing effective and reliable adaptation methods for large language models (LLMs), aiming to improve their alignment with human preferences and strengthen advanced capabilities such as reasoning. My work spans three directions:  
-(1) Large-scale reinforcement learning for reasoning and agents [[EEPO](https://arxiv.org/pdf/2510.05837), [BRIDGE](https://arxiv.org/pdf/2509.06948)]  
+(1) Large-scale reinforcement learning for reasoning and agents [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)]  
 (2) Post-training reliable LLMs from imperfect supervision [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)]  
 (3) Evaluating and watermarking LLM outputs [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)]
 
@@ -62,8 +62,10 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## News
 
 
-- [01/2026] Our work on [exploration dynamics](https://arxiv.org/pdf/2510.05837) in RL is accepted at ICLR 2026.  
+- [01/2026] Our work on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
   We diagnose mode collapse as a self-reinforcing loop in trajectory distributions, and mitigate it via distribution-level reshaping to enable exploration.
+
+- [11/2025] Gave a talk at Microsoft Research.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
 - [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
@@ -76,7 +78,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 <!-- - [05/2025] **Gave a talk at LMU Munich on post-training optimization for trustworthy LLMs.** -->
 <!-- - [05/2025] **Gave a talk at LMU Munich on robust LLMs.** -->
-- [05/2025] Gave a talk at LMU Munich on robust LLMs.
+- [05/2025] Gave a talk at LMU Munich.
 
 <!-- - [05/2025] Our paper on Vulnerability-Aware Alignment (VAA) is accepted at ICML 2025.   -->
 <!-- - [05/2025] **Our paper on safety alignment is accepted at ICML 2025.**   -->
@@ -111,7 +113,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
   <!-- We improve decoding algorithms by leveraging lexical redundancy to achieve lossless text watermarking, mirroring the success of image watermarking. -->
   <!-- We improve decoding algorithms by leveraging lexical redundancy to embed watermarks in text losslessly, mirroring the success of image watermarking. -->
   <!-- We propose a novel LM decoding method that embeds watermarks by exploiting lexical redundancy, minimizing impact on text quality. -->
-  We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
+  We introduce a LLM decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
 
 
 
@@ -119,12 +121,12 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong.  
-  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://arxiv.org/pdf/2510.05837)  
+  [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://openreview.net/pdf?id=ObF4WIMkY6)  
   **ICLR 2026**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
-  **Preprint**
+  **ICLR 2026 workshop**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
