@@ -126,7 +126,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
-  **ICLR 2026 workshop**
+  **ICLR 2026 workshop SPOT**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
