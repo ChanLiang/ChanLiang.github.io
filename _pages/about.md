@@ -65,7 +65,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - [01/2026] Our work on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
   We diagnose mode collapse as a self-reinforcing loop in trajectory distributions, and mitigate it via distribution-level reshaping to enable exploration.
 
-- [11/2025] Gave a talk at Microsoft Research.
+- [10/2025] Gave a talk at Microsoft Research.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
 - [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
@@ -126,7 +126,7 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
-  **ICLR 2026 workshop SPOT**
+  **ICLR 2026 SPOT workshop**
 
 - **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong.  
   [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
