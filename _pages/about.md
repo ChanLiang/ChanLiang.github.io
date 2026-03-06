@@ -69,7 +69,8 @@ He is dedicated to enhancing the reliability of LLMs across four dimensions:
 - [11/2025] Gave a talk at Microsoft Research.
 
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
-- [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.  
+<!-- - [09/2025] New work on [meta-learning](https://arxiv.org/abs/2509.06948) for training reasoning models.   -->
+- [09/2025] Our work on [meta-learning](https://arxiv.org/abs/2509.06948) for reasoning models is accepted at ICLR 2026 workshop.    
 <!-- - [09/2025] [New preprint](/talks/bridge.pdf): Cooperative SFT–RL for training advanced reasoning models.   -->
   <!-- We enable RL to meta-learn from SFT signals, selectively incorporating beneficial knowledge to achieve superior reasoning performance. -->
   <!-- Now the SFT can meta-learn how to supervise RL, selectively teaching beneficial knowledge to achieve superior reasoning performance. -->
