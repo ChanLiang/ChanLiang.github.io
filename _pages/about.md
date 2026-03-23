@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
+I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
 I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
-I had a wonderful time as a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
+I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 
 
 I develop post-training methods for large language models, with the goal of making them both more capable and more reliable. My recent work focuses on reinforcement learning for LLM reasoning [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)] and robust finetuning [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)], building on earlier work on evaluating and watermarking LLM-generated content [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)].
@@ -122,11 +122,4 @@ Outside of research, I enjoy walking in parks, as well as swimming, hiking, and 
   
 During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times.
 
----
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.88rem;">
-  <span style="white-space: normal;">
-    "I don't want to achieve immortality through my work; I want to achieve immortality through not dying."
-  </span><br>
-  — Woody Allen
-</p>
