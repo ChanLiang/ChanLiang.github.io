@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
-I received my master's and bachelor's degrees from Peking University and Northwestern Polytechnical University, respectively. 
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
-
+Previously, I studied at Peking University (M.S.) and Northwestern Polytechnical University (B.S.).
 
 I develop post-training methods for large language models, with the goal of making them both more capable and more reliable. My recent work focuses on reinforcement learning for LLM reasoning [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)] and robust finetuning [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)], building on earlier work on evaluating and watermarking LLM-generated content [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)].
 
