@@ -10,31 +10,17 @@ redirect_from:
 
 I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
-Previously, I studied at Peking University (M.S.) and Northwestern Polytechnical University (B.S.).
+Previously, I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
 
-I develop post-training methods for large language models, with the goal of making them both more capable and more reliable. My recent work focuses on reinforcement learning for LLM reasoning [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)] and robust finetuning [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)], building on earlier work on evaluating and watermarking LLM-generated content [[CONNER](https://aclanthology.org/2023.emnlp-main.390), [WatME](https://aclanthology.org/2024.acl-long.496/)].
+I develop post-training methods for large language models, with the goal of making them both more capable and more reliable. My recent work focuses on reinforcement learning for LLM reasoning [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)] and robust finetuning [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)], building on earlier work on evaluating and watermarking LLM-generated content [[CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf), [WatME](https://aclanthology.org/2024.acl-long.496/)].
 
 
 ## News
-
 - [01/2026] Our work on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
-  We find that RL training for reasoning suffers from mode collapse, and propose a simple distributional fix that restores exploration.
-
-- [11/2025] Gave a talk at Microsoft Research.
-
-- [09/2025] Our work on [meta-learning](https://arxiv.org/abs/2509.06948) for reasoning is accepted at ICLR 2026 workshop.    
-  Instead of serving as a warmup, SFT can now learn how to supervise RL by strategically transferring beneficial knowledge.
-
-- [05/2025] Gave a talk at LMU Munich.
-
 - [05/2025] Our paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) is accepted at ICML 2025.  
-  We reveal that some alignment examples are more prone to forgetting, and propose to upweight them to improve safety retention.
-
 - [02/2025] Our paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
-  We propose an instruction finetuning method that helps LLMs better handle set-structure inputs — making them more robust in tasks like ICL and RAG.
-
-- [05/2024] Our paper on [LLM watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.   
-  We introduce a decoding method that embeds watermarks via lexical redundancy, preserving text quality with minimal tradeoff.
+- [05/2024] Our paper on [LLM watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.
+- [10/2023] Our paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf.pdf) is accepted at EMNLP 2023.
 
 
 ## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
@@ -60,7 +46,7 @@ I develop post-training methods for large language models, with the goal of maki
   **ACL 2024**
 
 - **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong.  
-  [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390)  
+  [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390.pdf)  
   **EMNLP 2023**
 
 - **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong.    
