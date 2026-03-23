@@ -16,7 +16,7 @@ I develop post-training methods for large language models, with the goal of maki
 
 
 ## News
-- [01/2026] Our work on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
+- [01/2026] Our paper on [exploration dynamics](https://openreview.net/pdf?id=ObF4WIMkY6) in RL is accepted at ICLR 2026.  
 - [05/2025] Our paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) is accepted at ICML 2025.  
 - [02/2025] Our paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
 - [05/2024] Our paper on [LLM watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.
