@@ -52,6 +52,7 @@ I develop post-training methods for large language models, with the goal of maki
 - **[Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/)**  
   **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong  
   **ACL 2023 findings**
+  
 ---
 
 ## Talks
