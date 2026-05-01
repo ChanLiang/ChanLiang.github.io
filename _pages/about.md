@@ -16,6 +16,7 @@ I develop post-training methods for large language models, with the goal of maki
 
 
 ## News
+- [05/2026] Our paper on [meta-learning](https://arxiv.org/abs/2509.06948) is accepted at ICML 2026.
 - [01/2026] Our paper on [RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) is accepted at ICLR 2026.  
 - [05/2025] Our paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) is accepted at ICML 2025.  
 - [02/2025] Our paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
@@ -27,7 +28,7 @@ I develop post-training methods for large language models, with the goal of maki
 
 - **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)**  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
-  **ICLR 2026 SPOT workshop**
+  **ICML 2026**
 
 - **[EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://openreview.net/pdf?id=ObF4WIMkY6)**  
   **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong  
