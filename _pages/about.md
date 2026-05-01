@@ -24,7 +24,7 @@ I develop post-training methods for large language models, with the goal of maki
 - [10/2023] Our paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf.pdf) is accepted at EMNLP 2023.
 
 
-## Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
+## Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
 
 - **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)**  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
