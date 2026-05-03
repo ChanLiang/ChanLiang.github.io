@@ -12,19 +12,22 @@ I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
 
-I develop post-training methods for large language models, with the goal of making them both more capable and more reliable. My recent work focuses on reinforcement learning for LLM reasoning [[EEPO](https://openreview.net/pdf?id=ObF4WIMkY6), [BRIDGE](https://arxiv.org/pdf/2509.06948)] and robust finetuning [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w), [VAA](https://openreview.net/pdf?id=EMHED4WTHT)], building on earlier work on LLM evaluation and watermarking [[CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf), [WatME](https://aclanthology.org/2024.acl-long.496/)].
+My research focuses on training large language models effectively and using them reliably, organized around three questions:
 
+* How can RL incentivize reasoning? [[BRIDGE](https://arxiv.org/pdf/2509.06948) ICML'26, [EEPO](https://openreview.net/pdf?id=ObF4WIMkY6) ICLR'26]
+* How do we make alignment robust? [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w) ICLR'25, [VAA](https://openreview.net/pdf?id=EMHED4WTHT) ICML'25]
+* How do we monitor what LLMs generate? [[WatME](https://aclanthology.org/2024.acl-long.496/) ACL'24, [CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf) EMNLP'23]
 
 ## News
-- [05/2026] Our paper on [meta-learning](https://arxiv.org/abs/2509.06948) is accepted at ICML 2026.
-- [01/2026] Our paper on [RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) is accepted at ICLR 2026.  
-- [05/2025] Our paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) is accepted at ICML 2025.  
-- [02/2025] Our paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) is accepted at ICLR 2025.  
-- [05/2024] Our paper on [watermarking](https://aclanthology.org/2024.acl-long.496.pdf) is accepted at ACL 2024.
-- [10/2023] Our paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf.pdf) is accepted at EMNLP 2023.
 
+* [05/2026] One paper on [LLM reasoning](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
+* [01/2026] One paper on [RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
+* [05/2025] One paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
+* [02/2025] One paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) accepted at ICLR 2025.
+* [05/2024] One paper on [watermarking](https://aclanthology.org/2024.acl-long.496.pdf) accepted at ACL 2024.
+* [10/2023] One paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
 
-## Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=0iatxnIAAAAJ&view_op=list_works&sortby=pubdate))
+## Selected Publications ([Full List](/publications/))
 
 - **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)**  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
