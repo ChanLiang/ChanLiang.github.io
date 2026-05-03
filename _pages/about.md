@@ -30,7 +30,7 @@ My research focuses on training large language models effectively and using them
 * [05/2024] One paper on [watermarking](https://aclanthology.org/2024.acl-long.496.pdf) accepted at ACL 2024.
 * [10/2023] One paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
 
-## Selected Publications ([Full List](/publications/))
+## Selected publications ([Full list](/publications/))
 
 - [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
@@ -90,13 +90,13 @@ I have served as a teaching assistant for the following courses:
 
 ---
 
-## Community Service
+## Community service
 
 - Reviewer for ICML, ICLR, NeurIPS, AISTATS, ACL, EMNLP, and NAACL.
 
 ---
 
-## Honors & Scholarships
+## Honors & scholarships
 
 - Postgraduate Studentship, The Chinese University of Hong Kong    
 - School Scholarship, Peking University  

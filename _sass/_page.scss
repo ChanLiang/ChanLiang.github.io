@@ -20,7 +20,7 @@
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(1 of 12);
+    @include suffix(1.5 of 12);
   }
 
   .page__inner-wrap {
@@ -55,7 +55,7 @@
     border-bottom: 1px solid $border-color;
   }
 
-  > h2:first-child {
+  > :first-child {
     margin-top: 0;
   }
 
