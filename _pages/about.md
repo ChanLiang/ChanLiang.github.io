@@ -3,10 +3,13 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+hide_title: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## About me
 
 I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
