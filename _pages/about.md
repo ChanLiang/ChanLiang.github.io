@@ -29,29 +29,29 @@ My research focuses on training large language models effectively and using them
 
 ## Selected Publications ([Full List](/publications/))
 
-- **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)**  
+- [Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
-  **ICML 2026**
+  *ICML 2026*
 
-- **[EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://openreview.net/pdf?id=ObF4WIMkY6)**  
+- [EEPO: Exploration-Enhanced Policy Optimization via Sample-Then-Forget](https://openreview.net/pdf?id=ObF4WIMkY6)  
   **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong  
-  **ICLR 2026**
+  *ICLR 2026*
 
-- **[Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)**  
+- [Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
-  **ICML 2025**
+  *ICML 2025*
 
-- **[PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/pdf?id=txoJvjfI9w)**  
+- [PEARL: Towards Permutation-Resilient LLMs](https://openreview.net/pdf?id=txoJvjfI9w)  
   **Liang Chen**, Li Shen, Yang Deng, Xiaoyan Zhao, Bin Liang, Kam-Fai Wong  
-  **ICLR 2025**
+  *ICLR 2025*
 
-- **[WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496.pdf)**  
+- [WatME: Towards Lossless Watermarking Through Lexical Redundancy](https://aclanthology.org/2024.acl-long.496.pdf)  
   **Liang Chen**, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-Fai Wong  
-  **ACL 2024**
+  *ACL 2024*
 
-- **[Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390.pdf)**  
+- [Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators](https://aclanthology.org/2023.emnlp-main.390.pdf)  
   **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong  
-  **EMNLP 2023**
+  *EMNLP 2023*
 
   
 ---
@@ -82,7 +82,7 @@ I have served as a teaching assistant for the following courses:
 
 ## Internships
 
-- Microsoft Research Asia, Systems Research Group
+- Microsoft Research, Systems Research Group
 - Tencent AI Lab, Machine Learning Center
 
 ---
@@ -105,6 +105,11 @@ I have served as a teaching assistant for the following courses:
 
 Outside of research, I enjoy walking in parks, as well as swimming, hiking, and table tennis.
   
-During my time at NWPU, I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times.
+During my undergrad, I was the runner-up in the Freshmen Cup table tennis singles match and won the team championship three times.
 
+---
+
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.88rem;">
+  Live long enough to live forever.
+</p>
 
