@@ -112,7 +112,7 @@ During my undergrad, I was the runner-up in the Freshmen Cup table tennis single
 
 ---
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem; font-size: 0.88rem;">
+<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem;">
   Live long enough to live forever.
 </p>
 
