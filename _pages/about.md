@@ -53,9 +53,6 @@ My research focuses on training large language models effectively and using them
   **Liang Chen**, Yang Deng, Yatao Bian, Zeyu Qin, Bingzhe Wu, Tat-Seng Chua, Kam-Fai Wong  
   **EMNLP 2023**
 
-- **[Towards Robust Personalized Dialogue Generation via Representation Regularization](https://aclanthology.org/2023.findings-acl.462/)**  
-  **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong  
-  **ACL 2023 findings**
   
 ---
 
