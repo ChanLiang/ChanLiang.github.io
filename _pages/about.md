@@ -15,7 +15,7 @@ I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
 
-My research focuses on training large language models effectively and using them reliably, organized around three questions:
+My research focuses on training language models effectively and using them reliably, organized around three questions:
 
 * How can RL incentivize reasoning? [[BRIDGE](https://arxiv.org/pdf/2509.06948) ICML'26, [EEPO](https://openreview.net/pdf?id=ObF4WIMkY6) ICLR'26]
 * How do we make alignment robust? [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w) ICLR'25, [VAA](https://openreview.net/pdf?id=EMHED4WTHT) ICML'25]
@@ -80,6 +80,7 @@ I have served as a teaching assistant for the following courses:
 
 - **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.  
 - **Engineering Innovation and Entrepreneurship (SEEM3450)** – A hands-on course focused on identifying engineering opportunities and developing business plans.
+- **Information Technology Management (SEEM5730A & SEEM5730B)** – A graduate-level course on IT strategy, governance, and the management of information systems in organizations.
 
 ---
 
@@ -112,7 +113,7 @@ During my undergrad, I was the runner-up in the Freshmen Cup table tennis single
 
 ---
 
-<p style="text-align: center; font-style: italic; color: gray; margin-top: 3rem;">
-  Live long enough to live forever.
+<p style="text-align: center; font-style: italic; color: #9ca3af; font-size: 0.9em; letter-spacing: 0.02em; margin: 3rem 0 2rem;">
+  Live long enough to live forever
 </p>
 
