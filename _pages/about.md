@@ -23,12 +23,12 @@ My research focuses on training language models effectively and using them relia
 
 ## News
 
-* [05/2026] One paper on [LLM reasoning](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
-* [01/2026] One paper on [RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
-* [05/2025] One paper on [safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
-* [02/2025] One paper on [instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) accepted at ICLR 2025.
-* [05/2024] One paper on [watermarking](https://aclanthology.org/2024.acl-long.496.pdf) accepted at ACL 2024.
-* [10/2023] One paper on [LLM evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
+* [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
+* [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
+* [05/2025] One paper on [resilient safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
+* [02/2025] One paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) accepted at ICLR 2025.
+* [05/2024] One paper on [LLM watermarking](https://aclanthology.org/2024.acl-long.496.pdf) accepted at ACL 2024.
+* [10/2023] One paper on [LLM knowledge evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
 
 ## Selected publications ([Full list](/publications/))
 
@@ -78,9 +78,9 @@ My research focuses on training language models effectively and using them relia
 
 I have served as a teaching assistant for the following courses:
 
-- **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.  
-- **Engineering Innovation and Entrepreneurship (SEEM3450)** – A hands-on course focused on identifying engineering opportunities and developing business plans.
-- **Information Technology Management (SEEM5730A & SEEM5730B)** – A graduate-level course on IT strategy, governance, and the management of information systems in organizations.
+- **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.
+- **Engineering Innovation and Entrepreneurship (SEEM3450)** – Introduces engineering opportunity identification and business plan development through hands-on projects.
+- **Information Technology Management (SEEM5730)** – Covers IT strategy, governance, and the management of information systems in organizations.
 
 ---
 
