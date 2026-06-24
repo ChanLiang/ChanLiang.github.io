@@ -11,7 +11,7 @@ redirect_from:
 
 ## About me
 
-I am a Ph.D. candidate at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
+I received my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
 
@@ -25,6 +25,7 @@ I welcome discussions and collaborations on LLM post-training, especially in rea
 
 ## News
 
+* [06/2026] Passed my Ph.D. oral defense!
 * [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
 * [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
 * [05/2025] One paper on [resilient safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
