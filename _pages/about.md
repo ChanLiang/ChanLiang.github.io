@@ -96,7 +96,9 @@ I have served as a teaching assistant for the following courses:
 
 ## Community service
 
-- Reviewer for ICML, ICLR, NeurIPS, AISTATS, ACL, EMNLP, and NAACL.
+- PC Member for AAAI.
+
+- Reviewer for ICML, ICLR, NeurIPS, TMLR, AISTATS, ACL, EMNLP, and NAACL.
 
 ---
 
