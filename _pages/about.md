@@ -11,6 +11,7 @@ redirect_from:
 
 ## About me
 
+I am currently a postdoctoral researcher at [EPFL](https://www.epfl.ch/en/), working with [Prof. Antoine Bosselut](https://atcbosselut.github.io/).
 I received my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
 I was a visiting researcher at LMU Munich, working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
 I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
