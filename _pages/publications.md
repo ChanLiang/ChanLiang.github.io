@@ -55,14 +55,14 @@ author_profile: false
 
 ## Preprints
 
+* **[Controlled Memory Interference in Continual LLM Agents](https://arxiv.org/abs/2608.07622)**  
+  Ao Ding, Hongzong Li, Shiqin Tang, Li Zhang, **Liang Chen**, Xuyang Chen, Zi Liang
+
 * **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610)**  
-  Minghao Luo, **Liang Chen**  
-  *arXiv:2606.13610*
+  Minghao Luo, **Liang Chen**
 
 * **[A Survey of the Evolution of Language Model-Based Dialogue Systems: Data, Task and Models](https://arxiv.org/abs/2311.16789)**  
-  Hongru Wang, Lingzhi Wang, Yiming Du, **Liang Chen**, Jingyan Zhou, Yufei Wang, Kam-Fai Wong  
-  *arXiv:2311.16789*
+  Hongru Wang, Lingzhi Wang, Yiming Du, **Liang Chen**, Jingyan Zhou, Yufei Wang, Kam-Fai Wong
 
 * **[Meta Semantic Template for Evaluation of Large Language Models](https://arxiv.org/abs/2310.01448)**  
-  Yachuan Liu, **Liang Chen**, Jindong Wang, Qiaozhu Mei, Xing Xie  
-  *arXiv:2310.01448*
+  Yachuan Liu, **Liang Chen**, Jindong Wang, Qiaozhu Mei, Xing Xie
