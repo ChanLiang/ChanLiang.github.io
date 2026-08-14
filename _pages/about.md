@@ -22,7 +22,7 @@ My research focuses on training language models effectively and using them relia
 * How do we make alignment robust? [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w) ICLR'25, [VAA](https://openreview.net/pdf?id=EMHED4WTHT) ICML'25]
 * How do we monitor what LLMs generate? [[WatME](https://aclanthology.org/2024.acl-long.496/) ACL'24, [CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf) EMNLP'23]
 
-I welcome discussions and collaborations on LLM post-training, especially in reasoning, alignment, and agentic systems.
+Feel free to reach out if you’d like to chat about research or explore potential opportunities.
 
 ## News
 
