@@ -7,6 +7,10 @@ author_profile: false
 
 ## 2026
 
+* **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610)**  
+  Minghao Luo, **Liang Chen⁺**  
+  *EMNLP 2026 findings*
+
 * **[Beyond Two-Stage Training: Cooperative SFT and RL for LLM Reasoning](https://arxiv.org/abs/2509.06948)**  
   **Liang Chen**, Xueting Han, Li Shen, Jing Bai, Kam-Fai Wong  
   *ICML 2026*
@@ -57,9 +61,6 @@ author_profile: false
 
 * **[Controlled Memory Interference in Continual LLM Agents](https://arxiv.org/abs/2608.07622)**  
   Ao Ding, Hongzong Li, Shiqin Tang, Li Zhang, **Liang Chen**, Xuyang Chen, Zi Liang
-
-* **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610)**  
-  Minghao Luo, **Liang Chen**
 
 * **[A Survey of the Evolution of Language Model-Based Dialogue Systems: Data, Task and Models](https://arxiv.org/abs/2311.16789)**  
   Hongru Wang, Lingzhi Wang, Yiming Du, **Liang Chen**, Jingyan Zhou, Yufei Wang, Kam-Fai Wong
