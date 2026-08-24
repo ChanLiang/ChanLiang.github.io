@@ -95,6 +95,7 @@ Teaching assistant at CUHK:
 - Operations Research II (SEEM3440)
 - Engineering Innovation and Entrepreneurship (SEEM3450)
 - Information Technology Management (SEEM5730)
+  
 ---
 
 ## Internships
