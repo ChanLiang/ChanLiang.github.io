@@ -17,16 +17,17 @@ and was a visiting researcher at [LMU Munich](https://www.lmu.de/en/) with [Prof
 Earlier, I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
 
 
-My research focuses on training language models effectively and using them reliably, organized around three questions:
-
-* How can RL incentivize reasoning? [[BRIDGE](https://arxiv.org/pdf/2509.06948) ICML'26, [EEPO](https://openreview.net/pdf?id=ObF4WIMkY6) ICLR'26]
-* How do we make alignment robust? [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w) ICLR'25, [VAA](https://openreview.net/pdf?id=EMHED4WTHT) ICML'25]
-* How do we monitor what LLMs generate? [[WatME](https://aclanthology.org/2024.acl-long.496/) ACL'24, [CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf) EMNLP'23]
+My research goal is to make language models more capable without making them less reliable. In post-training the supervision is always imperfect, yet standard recipes are designed as if it were clean. I work on understanding how that imperfection surfaces in the trained model, and on building training methods that keep models capable and reliable in spite of it.
+ 
+* **Learning from a sparse RL signal.** In practice, RL for LLMs gives sparse rewards at the end of a long trajectory. Through denser credit assignment and wider exploration, we make it a stronger learning signal. [[BRIDGE](https://arxiv.org/pdf/2509.06948) ICML'26, [EEPO](https://openreview.net/pdf?id=ObF4WIMkY6) ICLR'26]
+* **Making alignment survive what comes after it.** Alignment is fragile: a range of downstream operations can undo it, from adversarial inputs to malicious fine-tuning. We build alignment methods that hold up under such perturbations. [[PEARL](https://openreview.net/pdf?id=txoJvjfI9w) ICLR'25, [VAA](https://openreview.net/pdf?id=EMHED4WTHT) ICML'25]
+* **Trusting text the model produced.** Post-training now runs largely on the model's own output. We asked whether that output can be trusted — evaluating LLMs as knowledge generators, and making what they write attributable. [[WatME](https://aclanthology.org/2024.acl-long.496/) ACL'24, [CONNER](https://aclanthology.org/2023.emnlp-main.390.pdf) EMNLP'23]
 
 Feel free to reach out if you’d like to chat about research or explore potential opportunities.
 
 ## News
 
+* [05/2026] One paper accepted at EMNLP 2026. 
 * [06/2026] Passed my Ph.D. oral defense.
 * [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
 * [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
@@ -89,12 +90,11 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 
 ## Teaching
 
-I have served as a teaching assistant for the following courses:
+Teaching assistant at CUHK:
 
-- **Operations Research II (SEEM3440)** – Covers advanced optimization techniques, including non-linear, integer, and dynamic programming.
-- **Engineering Innovation and Entrepreneurship (SEEM3450)** – Introduces engineering opportunity identification and business plan development through hands-on projects.
-- **Information Technology Management (SEEM5730)** – Covers IT strategy, governance, and the management of information systems in organizations.
-
+- Operations Research II (SEEM3440)
+- Engineering Innovation and Entrepreneurship (SEEM3450)
+- Information Technology Management (SEEM5730)
 ---
 
 ## Internships
