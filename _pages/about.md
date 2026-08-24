@@ -11,10 +11,11 @@ redirect_from:
 
 ## About me
 
-I am currently a postdoctoral researcher at [EPFL](https://www.epfl.ch/en/), working with [Prof. Antoine Bosselut](https://atcbosselut.github.io/).
-I received my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/). 
-I was a visiting researcher at [LMU Munich](https://www.lmu.de/en/), working with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/).
-I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
+I am a postdoctoral researcher at [EPFL](https://www.epfl.ch/en/), working with [Prof. Antoine Bosselut](https://atcbosselut.github.io/). 
+I received my Ph.D. from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Kam-Fai Wong](https://www1.se.cuhk.edu.hk/~kfwong/), 
+and was a visiting researcher at [LMU Munich](https://www.lmu.de/en/) with [Prof. Hinrich Schütze](https://cisnlp.github.io/about/). 
+Earlier, I received my M.S. from Peking University and B.S. from Northwestern Polytechnical University.
+
 
 My research focuses on training language models effectively and using them reliably, organized around three questions:
 
@@ -26,7 +27,7 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 
 ## News
 
-* [06/2026] Passed my Ph.D. oral defense!
+* [06/2026] Passed my Ph.D. oral defense.
 * [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
 * [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
 * [05/2025] One paper on [resilient safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
@@ -65,6 +66,14 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 
 ## Talks
 
+- Learning Good LLMs from Imperfect Data   
+  *Invited Talk*, Microsoft Research Asia – November 2025  
+  Host: Dr. Jing Bai
+  
+- Learning Good LLMs from Imperfect Data  
+  *Invited Talk*, EPFL – October 2025  
+  Host: Prof. Antoine Bosselut
+
 - Beyond Two-Stage Training: Cooperative SFT and RL for Improved LLM Reasoning  
   *PhD Seminar*, LMU Munich – August 2025  
   Host: Prof. Hinrich Schütze
@@ -100,14 +109,6 @@ I have served as a teaching assistant for the following courses:
 - Program Committee for AAAI 2027.
 
 - Reviewer for ICML, ICLR, NeurIPS, TMLR, AISTATS, ACL, EMNLP, and NAACL.
-
----
-
-## Honors & scholarships
-
-- Postgraduate Studentship, The Chinese University of Hong Kong    
-- School Scholarship, Peking University  
-- First-Class Scholarship, Northwestern Polytechnical University
 
 ---
 
