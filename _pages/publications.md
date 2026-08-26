@@ -19,6 +19,10 @@ author_profile: false
   **Liang Chen**, Xueting Han, Qizhou Wang, Bo Han, Jing Bai, Hinrich Schütze, Kam-Fai Wong  
   *ICLR 2026*
 
+* **[A Survey of the Evolution of Language Model-Based Dialogue Systems: Data, Task and Models](https://arxiv.org/abs/2311.16789)**  
+  Hongru Wang, Lingzhi Wang, Yiming Du, **Liang Chen**, Jingyan Zhou, Yufei Wang, Kam-Fai Wong  
+  *ACM Computing Surveys*
+
 ## 2025
 
 * **[Vulnerability-Aware Alignment: Mitigating Uneven Forgetting in Harmful Fine-Tuning](https://openreview.net/pdf?id=EMHED4WTHT)**  
@@ -51,19 +55,14 @@ author_profile: false
 
 * **[Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization](https://aclanthology.org/2023.findings-acl.462/)**  
   **Liang Chen**, Hongru Wang, Yang Deng, Wai Chung Kwan, Zezhong Wang, Kam-Fai Wong  
-  *Findings of ACL 2023*
+  *ACL 2023 findings*
 
 * **[Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration](https://aclanthology.org/2023.findings-emnlp.711/)**  
   Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua  
-  *Findings of EMNLP 2023*
+  *EMNLP 2023 findings*
 
 ## Preprints
 
 * **[Controlled Memory Interference in Continual LLM Agents](https://arxiv.org/abs/2608.07622)**  
   Ao Ding, Hongzong Li, Shiqin Tang, Li Zhang, **Liang Chen**, Xuyang Chen, Zi Liang
 
-* **[A Survey of the Evolution of Language Model-Based Dialogue Systems: Data, Task and Models](https://arxiv.org/abs/2311.16789)**  
-  Hongru Wang, Lingzhi Wang, Yiming Du, **Liang Chen**, Jingyan Zhou, Yufei Wang, Kam-Fai Wong
-
-* **[Meta Semantic Template for Evaluation of Large Language Models](https://arxiv.org/abs/2310.01448)**  
-  Yachuan Liu, **Liang Chen**, Jindong Wang, Qiaozhu Mei, Xing Xie
