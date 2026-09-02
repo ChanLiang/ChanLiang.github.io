@@ -35,7 +35,7 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 * [05/2025] One paper on [resilient safety alignment](https://openreview.net/pdf?id=EMHED4WTHT) accepted at ICML 2025.
 * [02/2025] One paper on [robust instruction tuning](https://openreview.net/pdf?id=txoJvjfI9w) accepted at ICLR 2025.
 * [05/2024] One paper on [LLM watermarking](https://aclanthology.org/2024.acl-long.496.pdf) accepted at ACL 2024.
-* [10/2023] One paper on [LLM knowledge evaluation](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
+* [10/2023] One paper on [generation-as-retrieval](https://aclanthology.org/2023.emnlp-main.390.pdf) accepted at EMNLP 2023.
 
 ## Selected publications ([Full list](/publications/))
 
