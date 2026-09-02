@@ -28,7 +28,7 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 ## News
 
 * [08/2026] One survey accepted at ACM Computing Surveys.
-* [08/2026] One paper accepted at EMNLP 2026.
+* [08/2026] One paper on [generation-as-recommendation](https://arxiv.org/pdf/2606.13610) accepted at EMNLP 2026.
 * [06/2026] Passed my Ph.D. oral defense.
 * [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
 * [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
