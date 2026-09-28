@@ -27,8 +27,10 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 
 ## News
 
-* [08/2026] One survey accepted at ACM Computing Surveys.
+* [09/2026] Two papers accepted at Math-AI@NeurIPS 2026.
+* [08/2026] One survey accepted to ACM Computing Surveys.
 * [08/2026] One paper on [generation-as-recommendation](https://arxiv.org/pdf/2606.13610) accepted at EMNLP 2026.
+* [07/2026] Joined EPFL as a postdoc with Prof. Antoine Bosselut.
 * [06/2026] Passed my Ph.D. oral defense.
 * [05/2026] One paper on [densifying RL rewards](https://arxiv.org/abs/2509.06948) accepted at ICML 2026.
 * [01/2026] One paper on [enhancing RL exploration](https://openreview.net/pdf?id=ObF4WIMkY6) accepted at ICLR 2026.
