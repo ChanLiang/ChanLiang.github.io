@@ -7,6 +7,14 @@ author_profile: false
 
 ## 2026
 
+* **[Learning Posterior Teachers for On-Policy Distillation](https://openreview.net/pdf?id=BjiTPhufxQ)**  
+  **Liang Chen**, Xueting Han, Tong Che, Hongzong Li, Jing Bai  
+  *Math-AI@NeurIPS 2026*
+
+* **[DoubtLess: Training-Free Contrastive Decoding for Efficient Mathematical Reasoning](https://openreview.net/pdf?id=A9zB4Kb9Ii)**  
+  Minghao Luo, **Liang Chen⁺**  
+  *Math-AI@NeurIPS 2026*
+
 * **[One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](https://arxiv.org/abs/2606.13610)**  
   Minghao Luo, **Liang Chen⁺**  
   *EMNLP 2026 findings*
