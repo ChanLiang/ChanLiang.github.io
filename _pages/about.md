@@ -27,6 +27,7 @@ Feel free to reach out if you’d like to chat about research or explore potenti
 
 ## News
 
+* [10/2026] I am invited to serve as an Area Chair of ACL ARR.
 * [09/2026] Two papers accepted at Math-AI@NeurIPS 2026.
 * [08/2026] One survey accepted to ACM Computing Surveys.
 * [08/2026] One paper on [generation-as-recommendation](https://arxiv.org/pdf/2606.13610) accepted at EMNLP 2026.
@@ -109,6 +110,8 @@ Teaching assistant at CUHK:
 ---
 
 ## Community service
+
+- Area Chair for ACL ARR.
 
 - Program Committee for AAAI 2027.
 
