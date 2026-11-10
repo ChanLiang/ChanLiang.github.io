@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: false
 ---
 
+## Preprints
+
+* **[Learning Dynamics of On-Policy Distillation](https://arxiv.org/abs/2611.08016)**  
+  Guan Zhe Hong, Sumeet Ramesh Motwani, **Liang Chen**, Yangchen Pan, Junchi Yu, Jialin Yu, Philip Torr, Yi Ren
+
+* **[Controlled Memory Interference in Continual LLM Agents](https://arxiv.org/abs/2608.07622)**  
+  Ao Ding, Hongzong Li, Shiqin Tang, Li Zhang, **Liang Chen**, Xuyang Chen, Zi Liang
+
 ## 2026
 
 * **[Learning Posterior Teachers for On-Policy Distillation](https://openreview.net/pdf?id=BjiTPhufxQ)**  
@@ -68,9 +76,3 @@ author_profile: false
 * **[Prompting and Evaluating Large Language Models for Proactive Dialogues: Clarification, Target-guided, and Non-collaboration](https://aclanthology.org/2023.findings-emnlp.711/)**  
   Yang Deng, Lizi Liao, **Liang Chen**, Hongru Wang, Wenqiang Lei, Tat-Seng Chua  
   *EMNLP 2023 findings*
-
-## Preprints
-
-* **[Controlled Memory Interference in Continual LLM Agents](https://arxiv.org/abs/2608.07622)**  
-  Ao Ding, Hongzong Li, Shiqin Tang, Li Zhang, **Liang Chen**, Xuyang Chen, Zi Liang
-
